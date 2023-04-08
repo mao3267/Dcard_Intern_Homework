@@ -9,14 +9,24 @@ The following shows the example of the training data.
 |<div style="width:80px">分開是為了更好的相遇</div>|2022-12-10 12:14:06 UTC|2|7|7|12|13|14|0|1|1|1|2|2|399368|298421|48.6|16|
 
 ### Built with
-![]()
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org)
+[![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 
 ## Getting Started
 ### Prerequisites
+
 ### Installation
+Clone the project repository
+```sh
+git clone git@github.com:Mao-Siang/Dcard_Intern_Homework.git
+```
+Run all blocks in `main.ipynb`
 
 ## Results
-- MAPE 
+- Stored in `results.csv`
+- Target Metric: MAPE (Mean Absolute Percentage Error)
+- Current Results: MAPE 14%
 
 ## Acknowledgments
 - [Comprehensive data exploration with Python](https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook#1.-So...-What-can-we-expect?)
