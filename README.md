@@ -19,7 +19,11 @@ Built with Python 3.9.16
 ### Prerequisites
 Use pip to install the required packages.
 ```
-pip install keras, scikit-learn, numpy, pandas, matplotlib, seaborn, xgboost
+pip install keras scikit-learn numpy pandas matplotlib seaborn xgboost
+```
+Or you can use the `requirements.txt` with a new virtual environment by running the following command:
+```sh
+pip install -r requirements.txt
 ```
 ### Installation
 Clone the project repository
