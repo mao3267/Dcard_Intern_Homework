@@ -21,7 +21,7 @@ Use pip to install the required packages.
 ```
 pip install keras scikit-learn numpy pandas matplotlib seaborn xgboost
 ```
-Or you can use the `requirements.txt` with a new virtual environment by running the following command:
+Or you can use the `requirements.txt` in a new virtual environment by running the following command:
 ```sh
 pip install -r requirements.txt
 ```
