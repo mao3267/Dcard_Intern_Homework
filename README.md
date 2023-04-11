@@ -19,8 +19,11 @@ Built with Python 3.9.16
 ### Prerequisites
 Use pip to install the required packages.
 ```
-pip install keras scikit-learn numpy pandas matplotlib seaborn xgboost
+pip install tensorflow keras scikit-learn numpy pandas matplotlib seaborn xgboost
 ```
+#### For Apple Chips
+Tutorial for installing tensorflow with Apple Chips: [Link](https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706)
+
 ### Installation
 Clone the project repository
 ```sh
