@@ -38,7 +38,7 @@ Clone the project repository
 git clone git@github.com:Mao-Siang/Dcard_Intern_Homework.git
 ```
 
-First, run all blocks in `RNN.ipynb` to generate the hidden layer output of RNN for later use in the regression model. The outputs will be stored in `train_rnn.csv`, `valid_rnn.csv`, and `test_rnn.csv` under the `ML Intern Homework` directory.
+First, run all blocks in `RNN.ipynb` to generate the hidden layer output of RNN for later use in the regression model. The outputs will be stored in `train_rnn.csv`, `valid_rnn.csv`, and `test_rnn.csv` under the `ML Intern Homework` directory. (The output might be different)
 
 Second, run all blocks in `main.ipynb`, and the results will be stored in `results.csv`.
 
