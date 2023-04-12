@@ -17,12 +17,20 @@ The following shows the example of the training data.
 ## Getting Started
 Built with Python 3.9.16
 ### Prerequisites
+
+#### For Windows or Linux
 Use pip to install the required packages.
 ```
 pip install tensorflow keras scikit-learn numpy pandas matplotlib seaborn xgboost
 ```
 #### For Apple Chips
+Since TensorFlow is not available on the Mac, we have to install miniforge.
 Tutorial for installing tensorflow with Apple Chips: [Link](https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706)
+
+Build with conda `environment.yml`
+```
+conda env create -f environment.yml
+```
 
 ### Installation
 Clone the project repository
@@ -41,3 +49,6 @@ Second, run all blocks in `main.ipynb`, and the results will be stored in `resul
 
 ## Acknowledgments
 - [Comprehensive data exploration with Python](https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook#1.-So...-What-can-we-expect?)
+
+## Other Links
+- [Github Repository](https://github.com/Mao-Siang/Dcard_Intern_Homework)
