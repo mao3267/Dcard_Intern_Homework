@@ -43,6 +43,7 @@ First, run all blocks in `RNN.ipynb` to generate the hidden layer output of RNN 
 Second, run all blocks in `main.ipynb`, and the results will be stored in `results.csv`.
 
 ### Directory structure
+```
 .
 ├── ML Intern Homework
 │   ├── intern_homework_private_test_dataset.csv
@@ -57,7 +58,7 @@ Second, run all blocks in `main.ipynb`, and the results will be stored in `resul
 ├── main.ipynb
 ├── report.pdf
 └── results.csv
-
+```
 ## Results
 - Stored in `results.csv`
 - Target Metric: MAPE (Mean Absolute Percentage Error)
